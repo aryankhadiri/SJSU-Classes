@@ -15,9 +15,8 @@ public class MyTest {
 		}
 		c3.setPlan(20);
 		c3.setMonth(24);
-		Mobile m2 = new Mobile("Galaxy", 500.00);
-		c3.setSmartphone(m2);
-		c3.updateTotal();
+		c3.getSmartphone().setDescription("Galaxy");
+		c3.getSmartphone().setPrice(500.00);
 		
 		System.out.println("-----------------------\n");
 		System.out.println("Original Contact");

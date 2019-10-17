@@ -7,12 +7,9 @@ public class Contract implements Cloneable {
 	}
 
 	public double getTotal() {
-		return total;
+		return (this.month*this.plan)+smartphone.getPrice();
 	}
 	
-	public void updateTotal() {
-		this.total = (this.month*this.plan)+smartphone.getPrice();
-	}
 	public int getMonth() {
 		return month;
 	}
