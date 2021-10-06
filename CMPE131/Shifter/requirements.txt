@@ -122,7 +122,7 @@ rmate==1.0.3
 s3transfer==0.2.1
 scandir==1.6
 scikit-learn==0.18.2
-Scrapy==1.4.0
+Scrapy==1.8.1
 service-identity==17.0.0
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
