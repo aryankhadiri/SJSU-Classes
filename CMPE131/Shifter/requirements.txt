@@ -45,7 +45,7 @@ funcsigs==1.0.2
 functools32==3.2.3.post2
 future==0.17.1
 futures==3.2.0
-html5lib==0.9999999
+html5lib==0.99999999
 hyperlink==17.2.1
 idna==2.5
 importlib-metadata==0.22
